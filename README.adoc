@@ -19,3 +19,6 @@ include::modular/README.adoc[leveloffset=+1]
 include::testing.adoc[leveloffset=+1]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+
+
+https://spring.io/guides/tutorials/spring-security-and-angular-js/#how-does-it-work
